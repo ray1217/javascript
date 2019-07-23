@@ -560,7 +560,7 @@ Other Style Guides
 
   <a name="5.3"></a>
   <a name="destructuring--object-over-array"></a>
-  - [5.3](#destructuring--object-over-array) 多个返回值用对象的解构，而不是数据解构。
+  - [5.3](#destructuring--object-over-array) 多个返回值用对象的解构，而不是数组解构。
 
     > Why? 你可以在后期添加新的属性或者变换变量的顺序而不会打破原有的调用
 
